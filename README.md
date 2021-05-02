@@ -1,5 +1,5 @@
 # Snippy
-RUHacks 2021 Submittion
+RUHacks 2021 Submittion - David Lascu, Martin Horciak, Andrew Kotyck, Fernando Pluas
 
 
 ## Inspiration
