@@ -20,3 +20,7 @@ We all can say that we have learned a lot and developed as programmers working i
 Along with the countless tools, languages, and frameworks we had to learn to accomplish this, we learned how to better work on a development project as a team. Within out group we saw a good dynamic emerge that we hope to mature into future hackathons.
 ## What's next for Snippy
 We still have a lot of features we hope to implement into the future, these include Google drive integration, Gmail integration, and a more flushed out connection between the Snippy Bot and the firebase. We also wish to further develop user integration into the website, possibly the expansion of a central hub for all a users uploaded projects. Finally, our future for snippy looks like a central portal to all websites a student may use, we want this to be the go to tool for Post secondary education.
+
+
+## Try it out!
+https://fir-test1-6d174.web.app/
